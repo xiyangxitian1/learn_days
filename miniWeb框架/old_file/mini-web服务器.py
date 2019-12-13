@@ -1,7 +1,7 @@
 import socket
 import threading
 import sys
-import framework_class as framework
+from old_file import framework_class as framework
 import logging
 
 logging.basicConfig(level=logging.DEBUG,

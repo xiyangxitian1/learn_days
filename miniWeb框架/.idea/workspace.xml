@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978aa144-a933-4244-9c15-f9e7c8e057b1" name="默认更改列表" comment="" />
+    <list default="true" id="978aa144-a933-4244-9c15-f9e7c8e057b1" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/old_file/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_file/logging_learn2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_t/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_t/test_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_t/test_thread_fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../复习/基础/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../复习/基础/test_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/framework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/framework_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-web服务器.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/mini-web服务器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/web.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/客服端.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/客服端.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务端.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/服务端.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/测试项目中日志使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/测试项目中日志使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../复习/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../复习/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +51,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UrZIHAv1QlpHPwposaW4VDMQeQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -38,6 +66,9 @@
     <property name="settings.editor.selected.configurable" value="sshConsole" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pycharm_project\learn\learn_days\miniWeb框架\old_file" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\pycharm_project\learn\miniWeb框架" />
     </key>
@@ -54,29 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.测试项目中日志使用">
-    <configuration name="服务端" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="miniWeb框架" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/服务端.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test_copy">
     <configuration name="客服端" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="miniWeb框架" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,6 +130,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="logging_learn2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="miniWeb框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/old_file" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old_file/logging_learn2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mini-web服务器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="miniWeb框架" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +165,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mini-web服务器.py" />
+      <option name="SCRIPT_NAME" value="E:\pycharm_project\learn\learn_days\miniWeb框架\old_file\mini-web服务器.py" />
       <option name="PARAMETERS" value="9090" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="web" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="miniWeb框架" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,13 +182,57 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_t" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_t/test_copy.py" />
       <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_thread_fun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="miniWeb框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_t" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_t/test_thread_fun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="miniWeb框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/web.py" />
+      <option name="PARAMETERS" value="9090" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -167,18 +242,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.mini-web服务器" />
-      <item itemvalue="Python.web" />
-      <item itemvalue="Python.客服端" />
-      <item itemvalue="Python.服务端" />
-      <item itemvalue="Python.测试项目中日志使用" />
+      <item itemvalue="Python.logging_learn2" />
+      <item itemvalue="Python.test_thread_fun" />
+      <item itemvalue="Python.web (1)" />
+      <item itemvalue="Python.test_copy" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.测试项目中日志使用" />
+        <item itemvalue="Python.test_copy" />
+        <item itemvalue="Python.web (1)" />
+        <item itemvalue="Python.test_thread_fun" />
+        <item itemvalue="Python.logging_learn2" />
         <item itemvalue="Python.mini-web服务器" />
-        <item itemvalue="Python.客服端" />
-        <item itemvalue="Python.web" />
-        <item itemvalue="Python.服务端" />
       </list>
     </recent_temporary>
   </component>
@@ -207,15 +282,34 @@
       <option name="presentableId" value="Default" />
       <updated>1576116592835</updated>
       <workItem from="1576116594103" duration="23545000" />
+      <workItem from="1576199793381" duration="613000" />
+      <workItem from="1576209837450" duration="6700000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/miniWeb$mini_web.coverage" NAME="mini-web服务器 Coverage Results" MODIFIED="1576146307376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/miniWeb$logging_learn2.coverage" NAME="logging_learn2 Coverage Results" MODIFIED="1576211800782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/old_file" />
     <SUITE FILE_PATH="coverage/miniWeb$.coverage" NAME="测试项目中日志使用 Coverage Results" MODIFIED="1576146433716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/miniWeb$test_copy.coverage" NAME="test_copy Coverage Results" MODIFIED="1576218590729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_t" />
+    <SUITE FILE_PATH="coverage/miniWeb$test_thread_fun.coverage" NAME="test_thread_fun Coverage Results" MODIFIED="1576214205461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_t" />
+    <SUITE FILE_PATH="coverage/miniWeb$web__1_.coverage" NAME="web (1) Coverage Results" MODIFIED="1576215509041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/miniWeb$web.coverage" NAME="web Coverage Results" MODIFIED="1576122311924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
