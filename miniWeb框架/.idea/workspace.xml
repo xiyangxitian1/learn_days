@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978aa144-a933-4244-9c15-f9e7c8e057b1" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/old_file/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_file/logging_learn2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/framework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_t/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_t/test_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_t/test_thread_fun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../复习/基础/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../复习/基础/test_str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/framework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/framework_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini-web服务器.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/mini-web服务器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/web.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/客服端.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/客服端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/服务端.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/服务端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试项目中日志使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_file/测试项目中日志使用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../复习/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../复习/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="978aa144-a933-4244-9c15-f9e7c8e057b1" name="默认更改列表" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -283,8 +261,16 @@
       <updated>1576116592835</updated>
       <workItem from="1576116594103" duration="23545000" />
       <workItem from="1576199793381" duration="613000" />
-      <workItem from="1576209837450" duration="6700000" />
+      <workItem from="1576209837450" duration="6737000" />
     </task>
+    <task id="LOCAL-00001" summary="1234234">
+      <created>1576219316483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576219316483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +288,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1234234" />
+    <option name="LAST_COMMIT_MESSAGE" value="1234234" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/miniWeb$mini_web.coverage" NAME="mini-web服务器 Coverage Results" MODIFIED="1576146307376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
