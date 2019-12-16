@@ -1,13 +1,16 @@
 from typing import List
+from functools import reduce
 
 
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        a = 0
-        nums.sort()
-        for n in nums:
-            a ^= n
-        return a
+        return reduce(lambda x, y: x ^ y, nums)
+
+        # a = 0
+        # nums.sort()
+        # for n in nums:
+        #     a ^= n
+        # return a
 
         # 方法二 ，虽然通过了但是用了空间太多
         # if not nums:
