@@ -3,6 +3,7 @@ from rediscluster import *
 if __name__ == '__main__':
     try:
         # 构建所有的节点，Redis会使用CRC16算法，将键和值写到某个节点上
+        # 一个3个主3个从，这3个是主
         startup_nodes = [
             {"host": "192.168.84.128", "port": "7000"},
             {"host": "192.168.84.128", "port": "7001"},
