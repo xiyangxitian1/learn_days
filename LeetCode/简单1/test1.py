@@ -1,6 +1,2 @@
-a = -21
-
-if a:
-    print("11")
-else:
-    print("22")
+a = sum(1, 2)
+print(a)
