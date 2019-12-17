@@ -33,9 +33,9 @@ class Solution:
         if nums1[-1] <= nums2[0]:
             if total & 1 == 1:
                 if k + 1 <= m:
-                    return nums1[k - 1]
+                    return nums1[k]
                 else:
-                    return nums2[k - m - 1]
+                    return nums2[k - m]
             else:
                 if k < m:
                     return (nums1[k - 1] + nums1[k]) / 2
