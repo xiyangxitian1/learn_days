@@ -87,6 +87,7 @@ class Solution:
 
 
 if __name__ == '__main__':
-    x = [1, 3]
-    y = [2]
-    Solution().findMedianSortedArrays(x, y)
+    x = [1]
+    y = [3, 4, 5]
+    r = Solution().findMedianSortedArrays(x, y)
+    print(r)
